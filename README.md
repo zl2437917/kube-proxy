@@ -1,2 +1,2 @@
 # kube-proxy
-FROM us.gcr.io/k8s-artifacts-prod/kube-proxy-arm:v1.23.0
+FROM atlassian/confluence-server:7.20.3-ubuntu-jdk11
